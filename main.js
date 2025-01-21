@@ -12,3 +12,4 @@ import "./cycle/task-3.js"
 import "./cycle/task-4.js"
 import "./cycle/task-5.js";
 import "./cycle/task-6.js";
+import "./switch/task-1.js"

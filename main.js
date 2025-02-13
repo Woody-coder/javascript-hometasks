@@ -16,4 +16,5 @@
 // import "./function/task-4.js"
 // import "./object/task-5.js"
 // import "./this/task-2.js";
-import "./this/task-3.js";
+// import "./this/task-3.js";
+import "./numbers/task-6.js"

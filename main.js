@@ -17,5 +17,3 @@
 // import "./object/task-5.js"
 // import "./this/task-2.js";
 // import "./this/task-3.js";
-// import "./function-constructor-new/task-2.js"
-import "./function-constructor-new/task-3.js";

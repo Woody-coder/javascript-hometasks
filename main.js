@@ -18,4 +18,4 @@
 // import "./this/task-2.js";
 // import "./this/task-3.js";
 // import "./numbers/task-6.js"
-import "./array/task-5.js";
+import "./array/task-4.js";

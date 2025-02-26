@@ -8,21 +8,20 @@
 P.S. Ноль 0 – считается числом, не останавливайте ввод значений при вводе «0». */
 
 function sumInput() {
-  let data = [];
+	let data = [];
+	let sum = 0;
 
-  while (true) {
-    let valueUsers = prompt("Введите значение");
-    if (valueUsers == "" || valueUsers == null || valueUsers == isNaN(valueUsers)) {
-      break;
-    }
-    data.push(+valueUsers);
-  }
-
-  let sum = 0;
-  for (let number of data) {
-    sum += number;
-  }
-  return sum;
+	while (true) {
+		let valueUsers = prompt("Введите значение");
+		if (valueUsers == "" || valueUsers == null || valueUsers == isNaN(valueUsers)) {
+			break;
+		}
+		data.push(+valueUsers);
+		sum += +valueUsers;
+	}
+	return sum;
 }
+
+
 
 console.log(sumInput());

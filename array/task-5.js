@@ -31,4 +31,4 @@ function getMaxSubSum(arr) {
 	return maxSum;
 }
 
-console.log(getMaxSubSum([1,2,-3,-8,10,-9,2,3,7]));
+console.log(getMaxSubSum([-1,-2,-3,-8,10,-9,2,3,7]));

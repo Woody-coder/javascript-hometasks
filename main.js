@@ -16,4 +16,16 @@
 // import "./function/task-4.js"
 // import "./object/task-5.js"
 // import "./this/task-2.js";
-
+// import './array-methods/task-1.js';
+// import './array-methods/task-2.js';
+// import './array-methods/task-3.js';
+// import './array-methods/task-4.js';
+// import './array-methods/task-5.js';
+// import './array-methods/task-6.js';
+// import './array-methods/task-7.js';
+// import './array-methods/task-8.js';
+// import './array-methods/task-9.js';
+// import './array-methods/task-10.js';
+// import './array-methods/task-11.js';
+// import './array-methods/task-12.js';
+import './array-methods/task-10.js';

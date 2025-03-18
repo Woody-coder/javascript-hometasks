@@ -29,6 +29,3 @@
 // import './array-methods/task-11.js';
 // import './array-methods/task-12.js';
 // import './array-methods/task-10.js';
-// import './destructuring/task-2.js';
-
-

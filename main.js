@@ -29,5 +29,3 @@
 // import './array-methods/task-11.js';
 // import './array-methods/task-12.js';
 // import './array-methods/task-10.js';
-import './weakmap-weakset/task-2.js';
-
